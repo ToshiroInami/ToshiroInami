@@ -92,11 +92,11 @@
 
 ###
 
-<h3 align="left">🛠️ Control de Versiones</h3>
+<h3 align="center">🛠️ Control de Versiones</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
