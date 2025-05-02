@@ -134,13 +134,13 @@
 ###
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToshiroInami&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToshiroInami&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToshiroInami&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToshiroInami&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="left" height="210" src="https://64.media.tumblr.com/7567a5afe4e38cec05f2cd5f01e896ae/f4ae2ece44c2fd40-37/s640x960/d76f570e4074e310d314c1943ccc91c6bc8cf7ca.gif"  />
+<img align="left" height="250" src="https://64.media.tumblr.com/93647823a669dc7061af76e3434bc786/20bbbc2a54c2c444-74/s640x960/d8216038df4cccf6c468243d67d3847b4cc95224.gif"  />
 
 ###
 
